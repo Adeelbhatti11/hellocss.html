@@ -1,0 +1,13 @@
+.paragraph{
+    color: black;
+    background-color: gray;
+    border: 10px solid green;
+    margin: 10px 15px 10px 15px;
+    padding: 15px 10px 15px 10px;
+    offset: 10px;
+    min-width: auto;
+    max-width: 300px;
+    min-height: auto;
+    max-height: 500px 500px;
+    background-position-x: 100px;;
+}
